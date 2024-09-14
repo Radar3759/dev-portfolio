@@ -1,4 +1,5 @@
-#[Welcome to my dev portfolio. ](www.lacefield.com)
+
+# [Welcome to my dev portfolio. ](www.lacefield.com)
 
 ## Purpose
 *This is my Softare Developer portfolio. It showcases several projects*
